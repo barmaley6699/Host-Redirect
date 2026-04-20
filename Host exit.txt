@@ -8,20 +8,6 @@
 172.64.146.98   cdn.oaistatic.com
 8.6.112.0       files.oaiusercontent.com
 
-# --- 4pda ---
-8.47.69.1 4pda.to
-8.47.69.1 4pda.ws
-8.47.69.1 app.4pda.to
-8.47.69.1 www.4pda.to
-8.47.69.1 *.4pda.ws
-8.47.69.1 *.4pda.to
-8.47.69.1 *.4pda.ru
-45.81.252.72    cs11a0a.4pda.ws
-54.36.104.75    cs2c9f.4pda.ws
-141.94.143.110  cs3b2e.4pda.ws
-217.182.194.171 cs4a0d.4pda.ws
-185.234.59.26   cs7f6c.4pda.ws
-
 #cdn.openai.com
 87.228.47.204   android.chat.openai.com
 87.228.47.204   api.openai.com
